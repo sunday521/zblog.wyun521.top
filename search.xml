@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a class="link"   href="https://hexo.io/" >Hexo</a>! This is your very first post. Check <a class="link"   href="https://hexo.io/docs/" >documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting</a> or you can ask me on <a class="link"   href="https://github.com/hexojs/hexo/issues" >GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><p><strong>notice</strong></p>
+<ol>
+<li>source 资源文件夹是存放用户资源的地方。除 _posts 文件夹之外，开头命名为 _ (下划线)的文件 &#x2F; 文件夹和隐藏的文件将会被忽略。Markdown 和 HTML 文件会被解析并放到 public 文件夹，而其他文件会被拷贝过去。</li>
+<li>Redefine 主题内置 Fontawesome Pro v6.2.1 版本</li>
+</ol>
+<p><strong>安装的插件：</strong></p>
+<ul>
+<li>hexo-wordcount 字数统计</li>
+<li>hexo-generator-searchdb 本地搜索</li>
+<li><a class="link"   href="mailto:&#x6e;&#111;&#100;&#101;&#x6a;&#x69;&#x65;&#98;&#97;&#64;&#x32;&#x2e;&#53;&#46;&#x32;" >&#x6e;&#111;&#100;&#101;&#x6a;&#x69;&#x65;&#98;&#97;&#64;&#x32;&#x2e;&#53;&#46;&#x32;</a> 推荐阅读板块【安装失败】</li>
+<li>hexo-all-minifier 静态资源压缩，提升加载速度【安装有漏洞】</li>
+<li>hexo-deployer-git</li>
+</ul>
+<p><strong>新增</strong></p>
+<ul>
+<li>友链</li>
+<li>标签页</li>
+<li>分类页面</li>
+<li>相册</li>
+<li>Aplayer</li>
+</ul>
+<p><strong>未完成：</strong></p>
+<ul>
+<li>commemt</li>
+<li>说说</li>
+<li>文章迁移、文章头更改</li>
+<li>CDN 加速</li>
+</ul>
+]]></content>
+      <categories>
+        <category>web</category>
+      </categories>
+      <tags>
+        <tag>web</tag>
+      </tags>
+  </entry>
+</search>
